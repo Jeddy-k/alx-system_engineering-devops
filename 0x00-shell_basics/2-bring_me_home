@@ -1,1 +1,2 @@
-#!/bin/bh
+#!/bin/bash
+cd ~
